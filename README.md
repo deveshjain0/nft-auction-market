@@ -23,3 +23,7 @@ axios
 1. 开启Ganache，端口8545，网络ID1337；
 2. 运行`npx hardhat run scripts/deploy.js --network localhost`，将CLI中输出的合约部署地址复制，粘贴到`./config.js`中；
 3. 运行`npm run dev`即可在本地运行项目。
+
+运行成功的截图：
+![](success_cli.png)
+![](success_web.png)
