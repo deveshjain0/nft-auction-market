@@ -1,3 +1,7 @@
+Git repo: https://github.com/ChenJianingZJU/nft-auction-market
+
+Demo vid: https://pan.zju.edu.cn/share/91de44f9fba15b4a8f06d0735d
+
 # Stack
 - 前端 Next.js
 - 框架 hardhat
